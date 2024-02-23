@@ -1,0 +1,32 @@
+/*
+ * The base configuration used by all other configuration.
+ *
+ * Be careful when updating this file. It may affect building docs, preparing DLLs, executing tests, or impacts the release process.
+ */
+ {
+	"compilerOptions": {
+		"target": "ES2020",
+		"useDefineForClassFields": true,
+		"lib": ["es2021","ES2020", "DOM", "DOM.Iterable"],
+		"module": "ESNext",
+		"skipLibCheck": true,
+	
+		/* Bundler mode */
+		"moduleResolution": "bundler",
+		"allowImportingTsExtensions": true,
+		"resolveJsonModule": true,
+		"isolatedModules": true,
+		"noEmit": true,
+		"jsx": "react-jsx",
+	
+		/* Linting */
+		"strict": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"noFallthroughCasesInSwitch": true
+	  },
+	"include": [
+	  "./typings/"
+	]
+  }
+  
