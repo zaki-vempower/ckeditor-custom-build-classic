@@ -1,5 +1,5 @@
 {
-  "name": "@ckeditor/ckeditor5-build-classic",
+  "name": "ckeditor5-custom-build-classic",
   "version": "41.1.0",
   "description": "The classic editor build of CKEditor 5 - the best browser-based rich text editor.",
   "keywords": [
