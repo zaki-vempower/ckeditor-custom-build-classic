@@ -45,7 +45,7 @@
     "@ckeditor/ckeditor5-list": "41.1.0",
     "@ckeditor/ckeditor5-find-and-replace": "^41.1.0",
     "@ckeditor/ckeditor5-html-embed": "^41.1.0",
-    "@ckeditor/ckeditor5-html-support": "^41.1.0",
+    "@ckeditor/ckeditor5-html-support": "^41.3.0",
     "@ckeditor/ckeditor5-inspector": "^4.1.0",
     "@ckeditor/ckeditor5-media-embed": "41.1.0",
     "@ckeditor/ckeditor5-paragraph": "41.1.0",
